@@ -1,1 +1,1 @@
-# fib
+# fundamentals of interactive design
